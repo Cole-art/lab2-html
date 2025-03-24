@@ -1,0 +1,3 @@
+**Lab Description:**  
+
+This lab focuses on building a well-structured HTML5 webpage using semantic elements to enhance readability, accessibility, and organization. Students will design and implement an interactive contact form with built-in HTML5 validation to ensure accurate user input. As part of the learning process, they will validate their code using the W3C Validator, ensuring compliance with web standards and best practices. To complete the lab, students will also practice version control by pushing their project to GitHub, reinforcing essential skills for web development and collaboration.
